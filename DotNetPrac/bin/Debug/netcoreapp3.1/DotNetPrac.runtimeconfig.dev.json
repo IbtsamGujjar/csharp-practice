@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ibtsam.noman\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ibtsam.noman\\.nuget\\packages"
+    ]
+  }
+}

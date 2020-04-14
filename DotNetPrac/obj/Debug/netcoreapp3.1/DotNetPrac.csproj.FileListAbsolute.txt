@@ -1,0 +1,13 @@
+D:\Training\cSharp\DotNetPrac\DotNetPrac\bin\Debug\netcoreapp3.1\DotNetPrac.exe
+D:\Training\cSharp\DotNetPrac\DotNetPrac\bin\Debug\netcoreapp3.1\DotNetPrac.deps.json
+D:\Training\cSharp\DotNetPrac\DotNetPrac\bin\Debug\netcoreapp3.1\DotNetPrac.runtimeconfig.json
+D:\Training\cSharp\DotNetPrac\DotNetPrac\bin\Debug\netcoreapp3.1\DotNetPrac.runtimeconfig.dev.json
+D:\Training\cSharp\DotNetPrac\DotNetPrac\bin\Debug\netcoreapp3.1\DotNetPrac.dll
+D:\Training\cSharp\DotNetPrac\DotNetPrac\bin\Debug\netcoreapp3.1\DotNetPrac.pdb
+D:\Training\cSharp\DotNetPrac\DotNetPrac\obj\Debug\netcoreapp3.1\DotNetPrac.csprojAssemblyReference.cache
+D:\Training\cSharp\DotNetPrac\DotNetPrac\obj\Debug\netcoreapp3.1\DotNetPrac.csproj.CoreCompileInputs.cache
+D:\Training\cSharp\DotNetPrac\DotNetPrac\obj\Debug\netcoreapp3.1\DotNetPrac.AssemblyInfoInputs.cache
+D:\Training\cSharp\DotNetPrac\DotNetPrac\obj\Debug\netcoreapp3.1\DotNetPrac.AssemblyInfo.cs
+D:\Training\cSharp\DotNetPrac\DotNetPrac\obj\Debug\netcoreapp3.1\DotNetPrac.dll
+D:\Training\cSharp\DotNetPrac\DotNetPrac\obj\Debug\netcoreapp3.1\DotNetPrac.pdb
+D:\Training\cSharp\DotNetPrac\DotNetPrac\obj\Debug\netcoreapp3.1\DotNetPrac.genruntimeconfig.cache
