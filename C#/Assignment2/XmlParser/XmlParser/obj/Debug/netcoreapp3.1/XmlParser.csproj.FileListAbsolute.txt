@@ -1,0 +1,14 @@
+D:\Training\cSharp\DotNetPrac\C#\Assignment2\XmlParser\XmlParser\bin\Debug\netcoreapp3.1\XmlParser.exe
+D:\Training\cSharp\DotNetPrac\C#\Assignment2\XmlParser\XmlParser\bin\Debug\netcoreapp3.1\XmlParser.deps.json
+D:\Training\cSharp\DotNetPrac\C#\Assignment2\XmlParser\XmlParser\bin\Debug\netcoreapp3.1\XmlParser.runtimeconfig.json
+D:\Training\cSharp\DotNetPrac\C#\Assignment2\XmlParser\XmlParser\bin\Debug\netcoreapp3.1\XmlParser.runtimeconfig.dev.json
+D:\Training\cSharp\DotNetPrac\C#\Assignment2\XmlParser\XmlParser\bin\Debug\netcoreapp3.1\XmlParser.dll
+D:\Training\cSharp\DotNetPrac\C#\Assignment2\XmlParser\XmlParser\bin\Debug\netcoreapp3.1\XmlParser.pdb
+D:\Training\cSharp\DotNetPrac\C#\Assignment2\XmlParser\XmlParser\obj\Debug\netcoreapp3.1\XmlParser.csproj.CoreCompileInputs.cache
+D:\Training\cSharp\DotNetPrac\C#\Assignment2\XmlParser\XmlParser\obj\Debug\netcoreapp3.1\XmlParser.AssemblyInfoInputs.cache
+D:\Training\cSharp\DotNetPrac\C#\Assignment2\XmlParser\XmlParser\obj\Debug\netcoreapp3.1\XmlParser.AssemblyInfo.cs
+D:\Training\cSharp\DotNetPrac\C#\Assignment2\XmlParser\XmlParser\obj\Debug\netcoreapp3.1\XmlParser.dll
+D:\Training\cSharp\DotNetPrac\C#\Assignment2\XmlParser\XmlParser\obj\Debug\netcoreapp3.1\XmlParser.pdb
+D:\Training\cSharp\DotNetPrac\C#\Assignment2\XmlParser\XmlParser\obj\Debug\netcoreapp3.1\XmlParser.genruntimeconfig.cache
+D:\Training\cSharp\DotNetPrac\C#\Assignment2\XmlParser\XmlParser\bin\Debug\netcoreapp3.1\assets\file.xml
+D:\Training\cSharp\DotNetPrac\C#\Assignment2\XmlParser\XmlParser\obj\Debug\netcoreapp3.1\XmlParser.csprojAssemblyReference.cache
