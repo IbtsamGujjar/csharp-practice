@@ -71,11 +71,5 @@ namespace TaskManager.Controllers
             Task task = _taskRepository.Delete(id);
             return RedirectToAction("Index");
         }
-
-        public IActionResult Search(string search)
-        {
-            var model = _taskRepository.Search(search);
-            return View("Views/Home/Index.cshtml", model);
-        }
     }
 }
